@@ -1,2 +1,3 @@
-    1.  Run  ```npm install``` to install dependencies
-    2.  Run ```npm start```
+    1. Clone the repository 
+    2. run npm install to install dependencies
+    3. run npm start
